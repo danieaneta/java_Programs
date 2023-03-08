@@ -1,0 +1,22 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\danie\IdeaProjects\actionListener-button-GUI\out\artifacts\actionListener_button_GUI_jar\buttonGUI.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	buttonGUI.exe
+Working dir:	C:\Users\danie\IdeaProjects\actionListener-button-GUI\out\artifacts\actionListener_button_GUI_jar\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\opencv\build\x64\vc15\bin;C:\Program Files\Git\cmd;C:\Program Files\GitHub CLI\;C:\Program Files\dotnet\;C:\Users\danie\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\danie\AppData\Local\Programs\Python\Python310\;C:\Users\danie\AppData\Local\Microsoft\WindowsApps;C:\Users\danie\.dotnet\tools;C:\Users\danie\AppData\Local\atom\bin;C:\Users\danie\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\danie\.dotnet\tools;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\bin;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin
+JRE paths:	;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\opencv\build\x64\vc15\bin;C:\Program Files\Git\cmd;C:\Program Files\GitHub CLI\;C:\Program Files\dotnet\;C:\Users\danie\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\danie\AppData\Local\Programs\Python\Python310\;C:\Users\danie\AppData\Local\Microsoft\WindowsApps;C:\Users\danie\.dotnet\tools;C:\Users\danie\AppData\Local\atom\bin;C:\Users\danie\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\danie\.dotnet\tools;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2022.3.2\bin;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin
+Check launcher:	C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javaw.exe (OK)
+Warning:	formatJavaVersion() too many parts added.
+Version string: 1.011.000_016 / 64-Bit (OK)
+Launcher:	C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin\javaw.exe
+Launcher args:	-jar "C:\Users\danie\IdeaProjects\actionListener-button-GUI\out\artifacts\actionListener_button_GUI_jar\buttonGUI.exe"
+Args length:	118/32768 chars
+Exit code:	0
